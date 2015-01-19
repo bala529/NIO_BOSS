@@ -1,5 +1,5 @@
 # NIO_BOSS
-netty for BOSS_TK
+netty for BOSS TK_Praktikum
 
 msgsender will send messages of type MessageType {HELLO,REQUEST,REPLY,REPLY_REQ,REPLY_HELLO};
 and handler will handle receive the message in handler.
